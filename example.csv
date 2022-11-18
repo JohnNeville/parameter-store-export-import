@@ -1,0 +1,3 @@
+Name,Type,KeyId,LastModifiedDate,LastModifiedUser,Description,Value,AllowedPattern,Tier,Version,Labels,Policies,DataType
+/applications/qa/ourapplication/ExampleString,String,,,,,Not secret at all,,Standard,,,,text
+/applications/qa/ourapplication/ExampleSecureString,SecureString,alias/sales-accounts-notifications-qa-ssm,,,,Don't tell anyone but I like to scuba dive,,Standard,,,,text
